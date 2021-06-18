@@ -14,5 +14,6 @@ files {
     'css/style.css',
     'js/script.js',
     'img/logo.png',
-    'music/music.mp3'
+    'music/music.mp3',
+    'video/video.mp4'
 }
